@@ -70,10 +70,10 @@ public class MovieServices {
 
     public Optional<Movie> findMovieByTitle(String name) {
 //        List<Movie> movies = getAll();
-//        Movie movieFound = new Movie();
+//        Movi  e movieFound = new Movie();
 //        for (Movie movie : movies) {
 //            if (movie.getTitle().equalsIgnoreCase(name)) {
-//                return movieRepository.findById(movie.getId());
+//                return m9ovieRepository.findById(movie.getId());
 //            } else {
 //            }
 //        }
